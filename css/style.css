@@ -254,7 +254,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 .outline-btn {
     background: transparent;
     color:  #868F9B !important;
-    border-color: #EB5D0B;
+    border-color: #FFFF00;
 }
 
 .main-btn:hover, .white-btn:hover, .outline-btn:hover {
@@ -979,7 +979,7 @@ header {
     text-align: center;
     margin: auto;
     border-radius: 50%;
-    border: 2px solid #EB5D0B;
+    border: 2px solid #FFFF00;
 }
 
 .pricing .price h3 {
