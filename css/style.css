@@ -104,12 +104,12 @@ a:hover, a:focus {
 }
 
 .main-color {
-    color: #FF0000;
+    color: #6195FF;
 }
 
 
 ::-moz-selection {
-    background-color: #FF0000;
+    background-color: #6195FF;
     color: #FFF;
 }
 
